@@ -1,0 +1,63 @@
+header{
+    background: #2C3E50;
+    color: #fff;
+    
+}
+body{
+    margin: 0;
+    font-family: Arial;
+    color:#FFF
+
+}
+ul{
+    width: 70%;
+    list-style: square;
+    display:inline-block;
+    text-align:right;
+    padding:0px;
+    
+}
+li{
+    display: inline-block;
+    color:#fff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+nav{
+    font-weight:bold;
+    margin-left:60px;
+    margin-right:60px;
+}
+span{
+    font-size:20px;
+    display: inline-block;
+    width: 29% ; 
+}
+a{
+    color:#FFF;
+    text-decoration: none;
+}
+img{
+    margin-bottom: 50px;
+    margin-top: 150px;
+    border-radius: 1000px;
+    background: #FFF;
+    
+}
+main{
+    text-align: center;
+    background: #1abc9c;
+    
+}
+footer{
+    background: #2C3E50;
+   color: #FFF;
+   text-align: center;
+   
+}
+.skills{
+    margin-bottom: 50px;
+}
+.Developer-name{
+    margin-bottom: 103px;
+}
