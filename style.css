@@ -40,7 +40,7 @@ a{
     color:#FFF;
     text-decoration: none;
 }
-img{
+.img{
     margin-bottom: 50px;
     margin-top: 150px;
     border-radius: 1000px;
@@ -51,10 +51,43 @@ img{
    
     
 }
-main{
+.cards{
+    border-radius: 5px;
+    width: 330px;
+
+}
+.pt{
+    padding-bottom: 50px;
+    color: #000;
+    margin-left: 100px;
+}
+.card{
+    width: 27%;
+    height: 220px;
+    padding: 20px;
+    border-radius: 2px;
+
+
+}
+.slide2{
+    width: 90%;
+    
+}
+.wrapper{
+    display: flex;
+    flex-flow: wrap;
+    margin-left: 10%;
+    margin-right: 15%;
+    width: 100%;
+    z-index: 4;
+}
+.slide1{
     text-align: center;
     background: #1abc9c;
-    
+ color: #FFF;    
+}
+.slide2{
+    text-align: center;
 }
 footer{
     background: #2C3E50;
